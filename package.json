@@ -1,0 +1,13 @@
+{
+    "id": "mongodb",
+    "name": "MongoDB",
+    "version": "1.0",
+    "description": "MongoDB",
+    "main": "index.js",
+    "author": "Luca B. <dntftggl@pm.me>",
+    "license": "MIT",
+    "repository": "https://github.com/meetfranz/franz-receipe-mongodb",
+    "config": {
+      "serviceURL": "https://cloud.mongodb.com/"
+    }
+  }
